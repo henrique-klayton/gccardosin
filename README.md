@@ -1,6 +1,6 @@
 ### Hi there, I'm Guilherme Cardoso 👋
 
-- 🔭 I’m currently working on Trainee
+- 🔭 I’m currently working on Active Manager
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: guiguilacerdacardoso2003@hotmail.com
 
